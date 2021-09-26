@@ -1,0 +1,202 @@
+####################################################################################################
+############  WeOwn Blockchain Downtime Analysis Report: OWN_PUBLIC_BLOCKCHAIN_MAINNET  ############
+####################################################################################################
+##  Report started at 2021-09-21 14:25:24 UTC
+##  Range of blocks analysed: 2 - 3000000
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 1
+##
+##  Started at block 60437 proposed at 2019-05-14 06:54:36 UTC
+##  Ended   at block 60438 proposed at 2019-05-14 11:39:27 UTC 
+##
+##  https://explorer.weown.com/block/60437 | https://explorer.weown.com/block/60438 
+##
+##  The downtime lasted 4 hours 44 minutes and 51 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 2
+##
+##  Started at block 178112 proposed at 2019-06-16 08:51:25 UTC
+##  Ended   at block 178113 proposed at 2019-06-16 13:09:43 UTC 
+##
+##  https://explorer.weown.com/block/178112 | https://explorer.weown.com/block/178113 
+##
+##  The downtime lasted 4 hours 18 minutes and 18 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 3
+##
+##  Started at block 178113 proposed at 2019-06-16 13:09:43 UTC
+##  Ended   at block 178114 proposed at 2019-06-17 06:31:44 UTC 
+##
+##  https://explorer.weown.com/block/178113 | https://explorer.weown.com/block/178114 
+##
+##  The downtime lasted 17 hours 22 minutes and 0 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 4
+##
+##  Started at block 636464 proposed at 2019-10-25 01:05:25 UTC
+##  Ended   at block 636465 proposed at 2019-10-25 08:28:58 UTC 
+##
+##  https://explorer.weown.com/block/636464 | https://explorer.weown.com/block/636465 
+##
+##  The downtime lasted 7 hours 23 minutes and 33 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 5
+##
+##  Started at block 702217 proposed at 2019-11-13 05:30:45 UTC
+##  Ended   at block 702218 proposed at 2019-11-14 12:27:56 UTC 
+##
+##  https://explorer.weown.com/block/702217 | https://explorer.weown.com/block/702218 
+##
+##  The downtime lasted 1 day 6 hours 57 minutes and 10 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 6
+##
+##  Started at block 726594 proposed at 2019-11-21 15:19:18 UTC
+##  Ended   at block 726595 proposed at 2019-11-21 18:51:38 UTC 
+##
+##  https://explorer.weown.com/block/726594 | https://explorer.weown.com/block/726595 
+##
+##  The downtime lasted 3 hours 32 minutes and 19 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 7
+##
+##  Started at block 889642 proposed at 2020-01-07 16:17:14 UTC
+##  Ended   at block 889643 proposed at 2020-01-07 18:13:36 UTC 
+##
+##  https://explorer.weown.com/block/889642 | https://explorer.weown.com/block/889643 
+##
+##  The downtime lasted 1 hour 56 minutes and 22 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 8
+##
+##  Started at block 1039230 proposed at 2020-02-19 13:15:08 UTC
+##  Ended   at block 1039231 proposed at 2020-02-19 15:13:56 UTC 
+##
+##  https://explorer.weown.com/block/1039230 | https://explorer.weown.com/block/1039231 
+##
+##  The downtime lasted 1 hour 58 minutes and 48 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 9
+##
+##  Started at block 1196048 proposed at 2020-04-04 12:50:54 UTC
+##  Ended   at block 1196049 proposed at 2020-04-04 14:23:45 UTC 
+##
+##  https://explorer.weown.com/block/1196048 | https://explorer.weown.com/block/1196049 
+##
+##  The downtime lasted 1 hour 32 minutes and 51 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 10
+##
+##  Started at block 1329999 proposed at 2020-05-13 05:44:07 UTC
+##  Ended   at block 1330000 proposed at 2020-05-13 22:41:53 UTC 
+##
+##  https://explorer.weown.com/block/1329999 | https://explorer.weown.com/block/1330000 
+##
+##  The downtime lasted 16 hours 57 minutes and 46 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 11
+##
+##  Started at block 1708842 proposed at 2020-08-30 10:50:03 UTC
+##  Ended   at block 1708843 proposed at 2020-08-30 14:20:36 UTC 
+##
+##  https://explorer.weown.com/block/1708842 | https://explorer.weown.com/block/1708843 
+##
+##  The downtime lasted 3 hours 30 minutes and 32 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 12
+##
+##  Started at block 2439570 proposed at 2021-03-28 20:27:32 UTC
+##  Ended   at block 2439571 proposed at 2021-03-28 21:45:45 UTC 
+##
+##  https://explorer.weown.com/block/2439570 | https://explorer.weown.com/block/2439571 
+##
+##  The downtime lasted 1 hour 18 minutes and 12 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 13
+##
+##  Started at block 2439572 proposed at 2021-03-28 21:56:05 UTC
+##  Ended   at block 2439573 proposed at 2021-03-29 11:24:46 UTC 
+##
+##  https://explorer.weown.com/block/2439572 | https://explorer.weown.com/block/2439573 
+##
+##  The downtime lasted 13 hours 28 minutes and 41 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 14
+##
+##  Started at block 2439573 proposed at 2021-03-29 11:24:46 UTC
+##  Ended   at block 2439574 proposed at 2021-03-29 12:38:26 UTC 
+##
+##  https://explorer.weown.com/block/2439573 | https://explorer.weown.com/block/2439574 
+##
+##  The downtime lasted 1 hour 13 minutes and 40 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 15
+##
+##  Started at block 2603436 proposed at 2021-05-16 01:46:52 UTC
+##  Ended   at block 2603437 proposed at 2021-05-16 06:08:26 UTC 
+##
+##  https://explorer.weown.com/block/2603436 | https://explorer.weown.com/block/2603437 
+##
+##  The downtime lasted 4 hours 21 minutes and 34 seconds 
+####################################################################################################
+
+
+#################################################################################################### 
+##  DOWNTIME EVENT NUMBER 16
+##
+##  Started at block 2775069 proposed at 2021-07-04 19:13:36 UTC
+##  Ended   at block 2775070 proposed at 2021-07-05 08:49:07 UTC 
+##
+##  https://explorer.weown.com/block/2775069 | https://explorer.weown.com/block/2775070 
+##
+##  The downtime lasted 13 hours 35 minutes and 30 seconds 
+####################################################################################################
+
+####################################################################################################
+##  Report ended at 2021-09-23 13:01:37 UTC
+####################################################################################################
