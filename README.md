@@ -19,3 +19,7 @@ From the server with node installed:
 ## Screenshot
 
 ![alt text](images/Progress.gif)
+
+## Example Report
+
+See report for the mainnet blockchain (blocks 2-3000000) located in reports folder
