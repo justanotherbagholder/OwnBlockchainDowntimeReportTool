@@ -15,3 +15,7 @@ Ensure all dependencies are installed, jq, tee etc
 From the server with node installed:
 
 `git clone https://github.com/justanotherbagholder/OwnBlockchainDowntimeReportTool.git`<br />`cd OwnBlockchainDowntimeReportTool && ./OwnBlockchainDowntimeReportTool.sh`
+
+## Screenshot
+
+![alt text](images/Progress.gif)
